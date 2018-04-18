@@ -1,0 +1,15 @@
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\TestePersistencia.exe.config
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\TestePersistencia.exe
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\TestePersistencia.pdb
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\MeuFramework.dll
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\PedidosDominio.dll
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\MySql.Data.dll
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\Dapper.dll
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\MeuFramework.pdb
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\PedidosDominio.pdb
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\bin\Debug\Dapper.xml
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\obj\Debug\TestePersistencia.csprojResolveAssemblyReference.cache
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\obj\Debug\TestePersistencia.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\obj\Debug\TestePersistencia.csproj.CopyComplete
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\obj\Debug\TestePersistencia.exe
+C:\Users\aliss\Desktop\Pedidos\TestePersistencia\obj\Debug\TestePersistencia.pdb

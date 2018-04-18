@@ -1,0 +1,22 @@
+﻿<Window x:Class="PedidosApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PedidosApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <Menu HorizontalAlignment="Stretch" VerticalAlignment="Top" Width="Auto" DockPanel.Dock="Top" Margin="5,0,5,0">
+            <MenuItem Header="Cliente" x:Name="manuItemClient">
+                <MenuItem Header="Cadastrar" x:Name="manuItemClientCRUD" Click="manuItemClientCRUD_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Produtos" x:Name="menuItemProduto">
+                <MenuItem Header="Cadastrar" x:Name="menuItemProdutoCRUD" Click="menuItemProdutoCRUD_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Pedidos" x:Name="menuItemPedido">
+                <MenuItem Header="Realizar pedido" x:Name="menuItemPedidoCRUD" Click="menuItemPedidoCRUD_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+    </DockPanel>
+</Window>
