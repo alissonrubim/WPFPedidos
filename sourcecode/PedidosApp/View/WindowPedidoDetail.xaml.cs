@@ -40,6 +40,10 @@ namespace PedidosApp.View
             if (c.Cliente == null)
                 c.Cliente = (new ClienteDAO()).ConsultarPorId(Guid.Parse(c.IdCliente));
             comboBoxClient.SelectedIndex = getClientIndex(c.Cliente);
+
+            (new PedidoItemDAO()).PreencherItens(c);
+
+            userControlPedidoItemResume.LoadGrid(c.Itens);
         }
 
         private int getClientIndex(Cliente c)

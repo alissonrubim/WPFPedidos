@@ -13,3 +13,18 @@ C:\Users\aliss\Desktop\Pedidos\TestePersistencia\obj\Debug\TestePersistencia.csp
 C:\Users\aliss\Desktop\Pedidos\TestePersistencia\obj\Debug\TestePersistencia.csproj.CopyComplete
 C:\Users\aliss\Desktop\Pedidos\TestePersistencia\obj\Debug\TestePersistencia.exe
 C:\Users\aliss\Desktop\Pedidos\TestePersistencia\obj\Debug\TestePersistencia.pdb
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\TestePersistencia.exe.config
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\TestePersistencia.exe
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\TestePersistencia.pdb
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\MeuFramework.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\PedidosDominio.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\MySql.Data.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\Dapper.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\MeuFramework.pdb
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\PedidosDominio.pdb
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\bin\Debug\Dapper.xml
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\obj\Debug\TestePersistencia.csprojResolveAssemblyReference.cache
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\obj\Debug\TestePersistencia.csproj.CoreCompileInputs.cache
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\obj\Debug\TestePersistencia.csproj.CopyComplete
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\obj\Debug\TestePersistencia.exe
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\TestePersistencia\obj\Debug\TestePersistencia.pdb

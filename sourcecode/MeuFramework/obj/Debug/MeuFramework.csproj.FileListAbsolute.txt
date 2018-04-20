@@ -17,3 +17,12 @@ C:\Users\aliss\Desktop\Pedidos\MeuFramework\obj\Debug\MeuFramework.csproj.CoreCo
 C:\Users\aliss\Desktop\Pedidos\MeuFramework\obj\Debug\MeuFramework.csproj.CopyComplete
 C:\Users\aliss\Desktop\Pedidos\MeuFramework\obj\Debug\MeuFramework.dll
 C:\Users\aliss\Desktop\Pedidos\MeuFramework\obj\Debug\MeuFramework.pdb
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\MeuFramework\bin\Debug\MeuFramework.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\MeuFramework\bin\Debug\MeuFramework.pdb
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\MeuFramework\bin\Debug\Dapper.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\MeuFramework\bin\Debug\Dapper.xml
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\MeuFramework\obj\Debug\MeuFramework.csprojResolveAssemblyReference.cache
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\MeuFramework\obj\Debug\MeuFramework.csproj.CoreCompileInputs.cache
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\MeuFramework\obj\Debug\MeuFramework.csproj.CopyComplete
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\MeuFramework\obj\Debug\MeuFramework.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\MeuFramework\obj\Debug\MeuFramework.pdb

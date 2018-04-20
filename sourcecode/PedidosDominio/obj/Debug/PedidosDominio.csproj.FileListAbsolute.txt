@@ -22,3 +22,15 @@ C:\Users\aliss\Desktop\Pedidos\PedidosDominio\obj\Debug\PedidosDominio.csproj.Co
 C:\Users\aliss\Desktop\Pedidos\PedidosDominio\obj\Debug\PedidosDominio.csproj.CopyComplete
 C:\Users\aliss\Desktop\Pedidos\PedidosDominio\obj\Debug\PedidosDominio.dll
 C:\Users\aliss\Desktop\Pedidos\PedidosDominio\obj\Debug\PedidosDominio.pdb
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\bin\Debug\PedidosDominio.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\bin\Debug\PedidosDominio.pdb
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\bin\Debug\Dapper.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\bin\Debug\MeuFramework.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\bin\Debug\MySql.Data.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\bin\Debug\MeuFramework.pdb
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\bin\Debug\Dapper.xml
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\obj\Debug\PedidosDominio.csprojResolveAssemblyReference.cache
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\obj\Debug\PedidosDominio.csproj.CoreCompileInputs.cache
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\obj\Debug\PedidosDominio.csproj.CopyComplete
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\obj\Debug\PedidosDominio.dll
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosDominio\obj\Debug\PedidosDominio.pdb

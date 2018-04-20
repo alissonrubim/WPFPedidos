@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="PedidosApp.View.UserControlPedidoItemResume"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PedidosApp.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <DockPanel>
+        <DockPanel DockPanel.Dock="Top" Margin="5, 5, 5, 10">
+            <Button x:Name="buttonAdd" Width="100" Height="25" Margin="5, 0, 5, 0" Background="White" BorderBrush="#FFECECEC" Click="buttonAdd_Click">Adicionar</Button>
+            <Button x:Name="buttoRemove" Width="100" Height="25" Margin="5, 0, 5, 0"  Background="White"  BorderBrush="#FFECECEC" HorizontalAlignment="Left" Click="buttoRemove_Click">Remover</Button>
+        </DockPanel>
+        <DockPanel>
+            <DataGrid ItemsSource="{Binding Source=resumeList}" x:Name="gridResume" AutoGenerateColumns="False" CanUserAddRows="False" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Produto" Width="400" Binding="{Binding Produto.Descricao}"/>
+                    <DataGridTextColumn Header="Quantidade" Width="400" Binding="{Binding Quantidade}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+    </DockPanel>
+</UserControl>

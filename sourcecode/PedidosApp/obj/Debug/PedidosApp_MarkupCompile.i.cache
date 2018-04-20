@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\aliss\Desktop\Pedidos\PedidosApp\obj\Debug\
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosApp\obj\Debug\
 PedidosApp
 none
 false
 DEBUG;TRACE
-C:\Users\aliss\Desktop\Pedidos\PedidosApp\App.xaml
-71055244258
+G:\My Work\Development\GitHub\WPFPedidos\sourcecode\PedidosApp\App.xaml
+9-1738238006
 
-151832457886
-15-2090960841
-MainWindow.xaml;View\WindowClientDetail.xaml;View\WindowClientResume.xaml;View\WindowPedidoDetail.xaml;View\WindowPedidoResume.xaml;View\WindowProdutoDetail.xaml;View\WindowProdutoResume.xaml;
+17-527695068
+151094796699
+MainWindow.xaml;View\UserControlPedidoItemResume.xaml;View\WindowClientDetail.xaml;View\WindowClientResume.xaml;View\WindowPedidoDetail.xaml;View\WindowPedidoItemDetail.xaml;View\WindowPedidoResume.xaml;View\WindowProdutoDetail.xaml;View\WindowProdutoResume.xaml;
 
-True
+False
 

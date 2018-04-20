@@ -74,6 +74,11 @@ namespace PedidosApp.View
         private void loadGrid()
         {
             resumeList = (new PedidoDAO()).RetornarTodos();
+            foreach(Pedido p in resumeList)
+            {
+                if (p.Cliente == null)
+                    p.Cliente = (new ClienteDAO()).ConsultarPorId(Guid.Parse(p.IdCliente));
+            }
             gridResume.ItemsSource = resumeList;
         }
     }

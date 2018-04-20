@@ -54,6 +54,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="View\UserControlPedidoItemResume.xaml.cs">
+      <DependentUpon>UserControlPedidoItemResume.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\WindowClientDetail.xaml.cs">
       <DependentUpon>WindowClientDetail.xaml</DependentUpon>
     </Compile>
@@ -62,6 +65,9 @@
     </Compile>
     <Compile Include="View\WindowPedidoDetail.xaml.cs">
       <DependentUpon>WindowPedidoDetail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\WindowPedidoItemDetail.xaml.cs">
+      <DependentUpon>WindowPedidoItemDetail.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\WindowPedidoResume.xaml.cs">
       <DependentUpon>WindowPedidoResume.xaml</DependentUpon>
@@ -84,6 +90,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="View\UserControlPedidoItemResume.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\WindowClientDetail.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -93,6 +103,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="View\WindowPedidoDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\WindowPedidoItemDetail.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
